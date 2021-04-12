@@ -1,0 +1,16 @@
+\providecommand \autonum@processReference [2]{}
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Задачи}{1}%
+\contentsline {section}{\numberline {2}Оборудование}{2}%
+\contentsline {section}{\numberline {3}Теория}{2}%
+\contentsline {subsection}{\numberline {3.1}Масс-спектроскопия}{2}%
+\contentsline {subsection}{\numberline {3.2}Принцип работы и устройство масс-спектрометра}{2}%
+\contentsline {subsection}{\numberline {3.3}Спектрометр SRS RGA-200}{2}%
+\contentsline {section}{\numberline {4}Анализ составов воздуха и других газов}{4}%
+\contentsline {subsection}{\numberline {4.1}Ход работы}{4}%
+\contentsline {subsection}{\numberline {4.2}Обработка данных}{5}%
+\contentsline {subsubsection}{\numberline {4.2.1}Воздух}{5}%
+\contentsline {subsubsection}{\numberline {4.2.2}Гелий}{5}%
+\contentsline {subsubsection}{\numberline {4.2.3}Углекислый газ}{7}%
+\contentsline {subsubsection}{\numberline {4.2.4}Сравнение углекислого газа и гелия}{7}%
+\contentsline {section}{\numberline {5}Выводы}{8}%

@@ -1,0 +1,17 @@
+\providecommand \autonum@processReference [2]{}
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Оборудование}{1}%
+\contentsline {section}{\numberline {2}Задачи}{2}%
+\contentsline {section}{\numberline {3}Определение индуктивности катушки}{2}%
+\contentsline {subsection}{\numberline {3.1}Теория работы}{2}%
+\contentsline {subsection}{\numberline {3.2}Ход работы}{3}%
+\contentsline {subsection}{\numberline {3.3}Анализ данных}{4}%
+\contentsline {section}{\numberline {4}Гистерезис}{5}%
+\contentsline {subsection}{\numberline {4.1}Теория работы}{5}%
+\contentsline {subsection}{\numberline {4.2}Ход работы}{7}%
+\contentsline {subsection}{\numberline {4.3}Анализ данных}{7}%
+\contentsline {subsubsection}{\numberline {4.3.1}Первая схема}{7}%
+\contentsline {subsubsection}{\numberline {4.3.2}Вторая схема}{8}%
+\contentsline {subsubsection}{\numberline {4.3.3}Намагниченность}{9}%
+\contentsline {subsubsection}{\numberline {4.3.4}Магнитная восприимчивость}{10}%
+\contentsline {subsubsection}{\numberline {4.3.5}Коэрцитивная сила и остаточная намагниченность}{11}%
