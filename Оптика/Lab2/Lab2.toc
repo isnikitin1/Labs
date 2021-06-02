@@ -1,0 +1,16 @@
+\providecommand \autonum@processReference [2]{}
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Задачи}{1}%
+\contentsline {section}{\numberline {2}Оборудование}{2}%
+\contentsline {section}{\numberline {3}Теория}{2}%
+\contentsline {subsection}{\numberline {3.1}Дифракция на одной щели}{2}%
+\contentsline {subsection}{\numberline {3.2}Дифракция на решетке с $N$ щелями}{3}%
+\contentsline {subsection}{\numberline {3.3}Дифракция на концентрирующей отражающей решетке}{4}%
+\contentsline {section}{\numberline {4}Ход работы}{5}%
+\contentsline {subsection}{\numberline {4.1}Определение числа штрихов дифракционных решеток}{5}%
+\contentsline {subsubsection}{\numberline {4.1.1}Постановка эксперимента}{5}%
+\contentsline {subsubsection}{\numberline {4.1.2}Результаты эксперимента}{6}%
+\contentsline {subsection}{\numberline {4.2}Определение угла скоса решетки}{10}%
+\contentsline {subsubsection}{\numberline {4.2.1}Постановка эксперимента}{10}%
+\contentsline {subsubsection}{\numberline {4.2.2}Результаты эксперимента}{10}%
+\contentsline {section}{\numberline {5}Выводы}{11}%
